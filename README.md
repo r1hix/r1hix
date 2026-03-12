@@ -22,7 +22,7 @@
 
 ### Stack
 
-Python • JavaScript • React • C++ • Unreal Engine 
+Python • JavaScript • Browser Extensions • React • C++ • Unreal Engine 
 
 ---
 
