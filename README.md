@@ -17,6 +17,7 @@
 
 * [Focus Pomodoro](https://github.com/r1hix/Focus-Pomodoro) — simple productivity browser extension
 * [Spotify Widget](https://github.com/r1hix/spotify-lyrics-widget) - Spotify lyrics widget for Übersicht
+* [Windows Remote PC](https://github.com/r1hix/remote-access) - Access Windows power options from any device
 
 ---
 
