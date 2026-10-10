@@ -15,15 +15,17 @@
 
 ### Projects
 
-* [Focus Pomodoro](https://github.com/r1hix/Focus-Pomodoro) — simple productivity browser extension
+* [Focus Pomodoro](https://github.com/r1hix/Focus-Pomodoro) — Simple productivity browser extension
+* [Lyricora](https://github.com/r1hix/Lyricora) — Native MacOS lyrics app
 * [Spotify Widget](https://github.com/r1hix/spotify-lyrics-widget) - Spotify lyrics widget for Übersicht
 * [Windows Remote PC](https://github.com/r1hix/remote-access) - Access Windows power options from any device
+* [RayLib Tank Game](https://github.com/r1hix/Tank-Game-RayLib) — RayLib video game project
 
 ---
 
 ### Stack
 
-Python • JavaScript • Browser Extensions • React • C++ • Unreal Engine 
+Python • C++ • JavaScript • Swift • React • Browser Extensions • Unreal Engine
 
 ---
 
